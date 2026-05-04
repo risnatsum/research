@@ -6,3 +6,10 @@
 - Open gaps: (1) HK Cap. 159H Rule 4 platform take-rate application — requires primary legal opinion; (2) Primary source for HK SME legal statistics (13 issues/year, 75% discouraged by cost) — originate from commercial blog, unverified; (3) Ask.Legal bilingual capability not confirmed in press release; (4) ALN Tech Start for Law exclusivity status; (5) Thomson Reuters / RELX APAC legal tech portfolio depth
 - User feedback: none
 - File: c:\dev\Research\ai-legal-triage\2026-05-04-hk-apac-market-competitor-research.md
+
+## 2026-05-05 European Portfolio Reporting Market — Market Landscape + Competitive Analysis (Broad)
+- Topics: European regulatory requirements (quality: 5/5), Target segment profiles (quality: 4/5), Vendor landscape Buckets 1+3 (quality: 4/5), Pure aggregators Bucket 2 (quality: 4/5), GTM and partnership strategy (quality: 3/5)
+- Key signals: (1) Neither Flanks nor Pretim provides PRIIPs arrival-price transaction-level cost data — TCA specialist vendors (Broadridge, RiskConcile) required as third integration; (2) 38% of family offices manually aggregate, 80% live in Excel — real displacement target is spreadsheets not incumbents; (3) CaixaBank selected Flanks April 2026 (Tier-1 validation), but may increase Flanks pricing leverage; (4) Viable independent aggregators contracted to 3 (Flanks, Pretim, Additiv) after Birdee/Nucoro/Wealth Kernel absorbed; (5) No named incumbent has publicly announced MiFID III compliance automation as of May 2026 — confirmed white-space
+- Open gaps: (1) Flanks/Pretim PRIIPs transaction data capability — requires vendor confirmation; (2) MiFID III vendor roadmaps — requires direct sales contact; (3) IFA consolidator buying behaviour hypothesis unverified; (4) Flanks commercial terms post-CaixaBank; (5) Alternative asset reporting gap sizing for mid-tier private banks
+- User feedback: none
+- File: c:\dev\research\european-wealthtech-reporting\2026-05-05-eu-portfolio-reporting-market.md
