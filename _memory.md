@@ -20,3 +20,10 @@
 - Open gaps: (1) No vendor has published MAU/activation data for MCP servers — adoption scale unverified; (2) Anthropic connector directory approval rate and review timeline unpublished; (3) "Interactive apps" live-interface rendering — open to all partners or launch-partners-only unknown; (4) Consumer Gemini third-party surface — closed with no announced opening date; (5) ChatGPT Apps vs GPT Store — may be separate or unified submission tracks (ambiguous)
 - User feedback: User restructured plan mid-Stage 2: added Claude plugins as its own topic, merged providers 2+3 into single wave-2 analyst, dropped GTM topic. Run reflected this.
 - File: c:\dev\Research\llm-plugin-mcp-ecosystem\2026-05-06-mcp-saas-integration-ecosystem.md
+
+## 2024-05-18 Swiss EAM Transaction Monitoring — Regulatory Framework
+- Topics: Swiss EAM AML Rules (5/5), EU Overlap (4/5), Global Standards (4/5), Audit & Data Residency (4/5), Future Trends (4/5)
+- Key signals: (1) Shift from legal equivalence to technical interoperability (EU AMLR 2027); (2) Personal criminal liability up to CHF 250k under nDSG for data duties; (3) 100% monitoring expected by ESMA/FINMA, ending manual sampling era.
+- Open gaps: (1) Technical interoperability specific data schemas; (2) "Swiss Finish" SaaS workarounds for local copy mandate; (3) Dynamic criteria benchmarks; (4) Custodian bank liability shielding.
+- User feedback: none
+- File: c:\dev\Research\swiss-eam-monitoring\2024-05-18-swiss-eam-compliance-monitoring.md
