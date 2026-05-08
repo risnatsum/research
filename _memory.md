@@ -27,3 +27,10 @@
 - Open gaps: (1) Technical interoperability specific data schemas; (2) "Swiss Finish" SaaS workarounds for local copy mandate; (3) Dynamic criteria benchmarks; (4) Custodian bank liability shielding.
 - User feedback: none
 - File: c:\dev\Research\swiss-eam-monitoring\2024-05-18-swiss-eam-compliance-monitoring.md
+
+## 2026-05-08 MiFID II and MiFID III for Swiss EAMs — Regulatory/Compliance Reference (Deep)
+- Topics: MiFID II Core Obligations + Suitability (quality: 5/5), MiFID II Costs & Charges + PRIIPs (quality: 4/5), Transaction Reporting + Best Execution + Surveillance (quality: 5/5), MiFID III Delta (quality: 4/5)
+- Key signals: (1) Swiss-only custodians break RTS 22 transmission exemption — EAM bears full reporting liability with no filing infrastructure (fact-dependent, needs legal analysis); (2) PRIIPs arrival-price TCA (mandatory Jan 2025) not served by Flanks or Pretim [INFERRED]; TCA specialists (Broadridge, RiskConcile, AVS Valuation) fill the gap; (3) MiFID III cost reporting requires instrument-level disaggregation + 3-category split + cumulative illustration — no named incumbent has publicly announced this feature as of May 2026; (4) STOR (market abuse, to NCA) and MROS (AML, to Swiss criminal intelligence) are additive obligations to different authorities — few EAMs have integrated workflows; (5) Off-channel communication fines exceeded $3B globally, ESMA sanctions up 143% YoY
+- Open gaps: (1) Flanks/Pretim PRIIPs TCA capability — requires direct vendor verification (also open from 2026-05-05 run); (2) Swiss custodian RTS 22 liability mechanics — requires legal analysis per custodian; (3) MiFID III incumbent roadmaps — Objectway, Landytech, Temenos direct product calls needed; (4) Retrocession sub-ledger in PMS tools — no systematic product review conducted; (5) ESMA/FINMA enforcement actions against EAM-size firms 2023–2026
+- User feedback: none
+- File: c:\dev\research\swiss-eam-monitoring\2026-05-08-mifid-ii-iii-eam-requirements.md
