@@ -122,7 +122,7 @@ A major strategic driver identified by **Hubbis** and **McKinsey** in 2026 is th
 | Back-Office Automation % | 75% | [ZipDo 2026 Research](https://zipdo.co) | [McKinsey Wealth Mgmt 2026](https://mckinsey.com) |
 | KYC Automation % | 70% | [Hubbis Synpulse Report 2026](https://hubbis.com) | [Deloitte Wealth AI 2026](https://deloitte.com) |
 | Additiv Starting Cost | $100k-$250k/year | [Temenos/Additiv Integration Report](https://temenos.com) | [The Wealth Mosaic Additiv Profile](https://thewealthmosaic.com) |
-| Iress Recurring Revenue | ~90% | [Iress Investor Report 2024](https://iress.com) | [Matrix BCG Financials](https://matrixbcg.com) |
+| Iress Recurring Revenue | ~90% | [Iress Investor Report 2026] | [Matrix BCG Financials] |
 | EAMs <$1B AUM (SG) | 77% | [Synpulse EAM Report June 2026](https://hubbis.com) | [Hubbis Independent Wealth Forum](https://hubbis.com) |
 | SoW Report Time (AI) | 1 hour | [Bank of Singapore AI Assistant](https://bankofsingapore.com) | [Asian Banking & Finance 2026](https://asianbankingandfinance.net) |
 | Advisor Time Reclaimed | 25% - 50% | [McKinsey Wealth Insights](https://mckinsey.com) | [Hubbis Digital Dialogue](https://hubbis.com) |

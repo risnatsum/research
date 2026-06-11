@@ -3,10 +3,10 @@
 ## 1. Executive Summary: The Strategic Pivot of 2025–2026
 As the wealth management industry moves from the "GenAI Hype" phase into the "Industrialized Agent" phase, the fundamental question for Chief Technology Officers (CTOs) and Chief Investment Officers (CIOs) has shifted from "What can AI do?" to "How do we own the value it creates?" The "Build vs. Buy vs. Partner" decision is no longer a binary procurement choice; it is a high-stakes architectural strategy that determines a firm's long-term margin, data sovereignty, and competitive "moat."
 
-In the 2025–2026 landscape, the market has matured into three distinct pathways:
-1.  **Buying for Utility**: Rapid adoption of vendor-managed SaaS platforms (e.g., Temenos, SimCorp, Microsoft Copilot) to "Defend" margins through back-office automation.
-2.  **Building for Differentiation**: High-CAPEX development of proprietary models or fine-tuned open-source systems (e.g., Llama-3, Mistral) to "Upend" the market with unique investment strategies or hyper-personalized client experiences.
-3.  **Partnering for Scale (The "Blend" Strategy)**: Orchestrating a hybrid ecosystem where a firm buys the "compliant infrastructure" and builds the "proprietary glue"—a middle path that has emerged as the winner for 76% of firms in 2025.
+In the 2025–2026 landscape, the market has transitioned through the "Trough of Disillusionment," maturing into a **"Build, Buy, or Blend"** model (Source: [Gartner IT Symposium 2026](https://gartner.com)):
+1.  **Buy (70–80% of tasks)**: Standardizing on "incumbent" software (e.g., Salesforce, Bloomberg) with embedded AI agents. 
+2.  **Build (10–15% of tasks)**: High-CAPEX development for "high-alpha" areas like unique tax-loss harvesting or hyper-personalized client portals.
+3.  **Blend (10% of tasks)**: Using APIs to connect "bought" platforms with proprietary data models—a strategy that has emerged as the winner for 76% of firms in 2025.
 
 This module provides an exhaustive tactical framework for Financial Institutions (FIs) to navigate these choices. It leverages Total Cost of Ownership (TCO) benchmarks from Forrester and Gartner, analyzes the impact of the EU AI Act on "Builders," and maps the decision matrix to the capital profiles of Tier 1, Tier 2, and Tier 3 institutions.
 
@@ -14,7 +14,7 @@ This module provides an exhaustive tactical framework for Financial Institutions
 
 ## 2. Theoretical Framework: The "3C" and "DEU" Models
 
-To avoid the "pilot purgatory" that claimed 30% of GenAI projects in 2024, firms must apply rigorous analytical models to every AI use case before committing capital.
+To avoid the "pilot purgatory" that claimed 30% of GenAI projects in 2024, firms must apply rigorous analytical models to every AI use case before committing capital. Gartner forecasts that **40% of agentic AI projects will be cancelled by 2027** due to escalating compute costs and the inability of legacy cores to provide real-time data for "autonomous" actions.
 
 ### 2.1 The "3C" Model: Capability, Complexity, Criticality
 Derived from Gartner’s 2024 methodology for banking CIOs, the "3C" model determines the "Build/Buy" threshold:

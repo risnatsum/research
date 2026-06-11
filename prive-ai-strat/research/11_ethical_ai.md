@@ -77,18 +77,18 @@ HSBC has restructured its governance to manage its global footprint.
 
 Wealth managers are increasingly aligning their internal policies with global standards to ensure cross-border regulatory "equivalence."
 
-#### 5.1 OECD AI Principles (2024 Update)
-The OECD provides the most widely accepted "values-based" framework for AI.
-1.  **Inclusive Growth & Well-being**: AI must democratize wealth, not just optimize for the 1%.
-2.  **Human Rights & Fairness**: This is the "No Bias" rule. Firms must conduct "Algorithmic Impact Assessments" (AIAs) to prove their models don't discriminate.
-3.  **Transparency & Explainability**: Clients have a "Right to an Explanation." If a robo-advisor shifts a portfolio, the AI must provide a "why" that a human can understand.
-4.  **Robustness & Security**: AI must be resilient against "Data Poisoning" and market volatility (Stress Testing).
-5.  **Accountability**: The Board is ultimately liable. You cannot blame the algorithm. (Source: [OECD AI Principles 2024](https://oecd.ai/en/principles))
+#### 5.1 OECD AI Principles & Due Diligence Guidance (2026)
+The OECD provides the most widely accepted "values-based" framework for AI. In February 2026, the OECD released the **"Due Diligence Guidance for Responsible AI"**, which mandates that financial institutions perform exhaustive audits of their AI supply chains, including third-party LLM providers.
+1.  **Supply Chain Transparency**: Firms must verify the "Ethical Origin" of training data used by vendors like OpenAI or Anthropic.
+2.  **Inclusive Growth & Well-being**: AI must democratize wealth, not just optimize for the 1%.
+3.  **Human Rights & Fairness**: Firms must conduct "Algorithmic Impact Assessments" (AIAs) to prove their models don't discriminate.
+4.  **Transparency & Explainability**: Clients have a "Right to an Explanation." If a robo-advisor shifts a portfolio, the AI must provide a "why" that a human can understand.
+5.  **Robustness & Security**: AI must be resilient against "Data Poisoning" and market volatility. (Source: [OECD AI Principles & 2026 Guidance](https://oecd.ai/en/principles))
 
-#### 5.2 WEF: The "Presidio" and "Shift-Left" Methodology
-The World Economic Forum (WEF) focuses on operationalizing ethics through the **Presidio AI Framework** (2024).
-- **"Shift-Left" Ethics**: Instead of testing for bias *after* a model is built, firms must integrate ethical guardrails at the *data collection* phase.
-- **Agentic AI Governance (2025)**: The WEF’s latest guidance focuses on "Accountable Autonomy"—ensuring that as AI agents take actions (like rebalancing portfolios), there is a clear "Kill Switch" and human-in-the-loop oversight. (Source: [WEF AI Governance Alliance 2025](https://www.weforum.org/reports/ai-governance-alliance))
+#### 5.2 WEF: Presidio & ACAP Frameworks (2026)
+The World Economic Forum (WEF) focuses on operationalizing ethics through the **Presidio AI Framework** and the **Agent Capability and Authorization Profile (ACAP)** released in March 2026.
+- **"Shift-Left" Ethics**: Integrating ethical guardrails at the *data collection* phase.
+- **ACAP (March 2026)**: A standardized profile for governing "delegated authority." It allows wealth managers to define exactly what an AI agent can do (e.g., "rebalance within 5% drift") and what requires human approval (e.g., "liquidate an entire asset class"). This prevents "Agentic Overreach" in fiduciary environments (Source: [WEF AI Governance Alliance 2026](https://www.weforum.org/reports/ai-governance-alliance)).
 
 ### 6. The Blueprint: A 5-Phase Ethical AI Framework for FIs
 

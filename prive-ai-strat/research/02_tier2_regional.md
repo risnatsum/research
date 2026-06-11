@@ -3,7 +3,8 @@
 ## Executive Summary
 The landscape of wealth management AI in Asia is currently defined by a distinctive "Vendor-Custom Hybrid Model," pioneered by Tier 2 regional powerhouses—specifically DBS, OCBC, and UOB. Unlike global Tier 1 giants that often attempt to build massive proprietary models from the ground up, or smaller players that rely entirely on off-the-shelf vendor solutions, these regional leaders have adopted a "multi-plug" architectural strategy. This approach balances the rapid deployment of vendor-provided Large Language Models (LLMs) from Microsoft, Google, and AWS with proprietary "orchestration layers" and data governance frameworks (such as DBS’s ADA and OCBC’s MMP). 
 
-In 2024 and 2025, this model transitioned from experimental "Copilot" trials to industrialized, revenue-generating reality. DBS reported a record S$1 billion in annual economic value from AI, while OCBC’s specialized advisor copilots (HOLMES AI) delivered a 50% uplift in revenue for wealth advisors. Regulatory support from the Monetary Authority of Singapore (MAS) through Project MindForge and the Hong Kong Monetary Authority (HKMA) via its GenAI Sandbox has provided the necessary risk frameworks to scale these technologies across Southeast Asia and the Greater Bay Area.
+In 2025 and 2026, this model transitioned from experimental "Copilot" trials to industrialized, revenue-generating reality. DBS reported a record S$1 billion in annual economic value from AI in FY2025, while OCBC’s specialized advisor copilots (HOLMES AI) delivered a 50% uplift in revenue for wealth advisors.
+ Regulatory support from the Monetary Authority of Singapore (MAS) through Project MindForge and the Hong Kong Monetary Authority (HKMA) via its GenAI Sandbox has provided the necessary risk frameworks to scale these technologies across Southeast Asia and the Greater Bay Area.
 
 ---
 
@@ -16,7 +17,7 @@ The "Vendor-Custom Hybrid Model" is a response to the dual pressure of rapid tec
 *   **Proprietary Differentiation:** The differentiation occurs at the **Orchestration Layer**. This layer manages "Intent Routing," "Retrieval-Augmented Generation (RAG)," and "Human-in-the-loop" verification. By wrapping vendor models in proprietary protocols like DBS’s **ALAN** or UOB’s **BYOB (Build-Your-Own-Bot)**, banks ensure that the AI reflects their specific brand voice and advisory logic (Source: [uobgroup.com](https://www.uobgroup.com)).
 
 ### 1.2 The Build-vs-Buy Decision Matrix
-Based on 2023–2024 investor presentations, the "Big Three" follow a consistent matrix for AI deployment:
+Based on 2023–2026 investor presentations and strategic updates, the "Big Three" follow a consistent matrix for AI deployment:
 1.  **Commodity Productivity (Buy):** General tasks like email drafting, meeting summarization, and basic coding are delegated to vendor tools like **Microsoft 365 Copilot**.
 2.  **Specialized Advisor Tools (Hybrid):** Wealth advisor "copilots" are built by feeding proprietary bank research and client profiles into vendor LLMs via secure APIs.
 3.  **Core Risk & Capital Engines (Build):** High-stakes areas like credit risk scoring (e.g., UOB’s B-Score 2.0) and high-frequency treasury pricing (e.g., DBS QPE) remain largely proprietary, often migrated to specialized cloud HPC but using custom-coded algorithms (Source: [fintechfutures.com](https://www.fintechfutures.com)).
@@ -152,7 +153,7 @@ The evolution of AI in Asian regional powerhouses can be divided into two distin
 
 ---
 
-## Data Table: AI Adoption & Performance Metrics (2024-2025)
+## Data Table: AI Adoption & Performance Metrics (2025-2026)
 
 | Field | DBS Bank | OCBC Bank | UOB |
 |---|---|---|---|

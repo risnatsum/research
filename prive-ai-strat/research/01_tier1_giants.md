@@ -1,7 +1,7 @@
 # Module 1: Tier 1 Global Giants — The "In-House" LLM Arms Race
 
 ## 1. Executive Overview: The State of the "In-House" LLM Arms Race
-The global wealth management industry is currently in the midst of a multi-billion dollar "arms race" to integrate Generative Artificial Intelligence (GenAI) and Large Language Models (LLMs) into the core of the advisory experience. Unlike previous waves of digital transformation—which focused on basic mobile apps and robo-advisory—the current Tier 1 strategy centers on the development of proprietary, in-house ecosystems that leverage institutional "intellectual capital" as the primary data source. As of 2024–2026, the world’s largest wealth managers (JPMorgan Chase, Morgan Stanley, UBS, Bank of America, Citi, and Goldman Sachs) have moved beyond experimental pilots into large-scale deployment, treating AI not as a peripheral tool but as the fundamental infrastructure of the "advisor-client" relationship.
+The global wealth management industry is currently in the midst of a multi-billion dollar "arms race" to integrate Generative Artificial Intelligence (GenAI) and Large Language Models (LLMs) into the core of the advisory experience. Unlike previous waves of digital transformation—which focused on basic mobile apps and robo-advisory—the current Tier 1 strategy centers on the development of proprietary, in-house ecosystems that leverage institutional "intellectual capital" as the primary data source. As of 2026, the world’s largest wealth managers (JPMorgan Chase, Morgan Stanley, UBS, Bank of America, Citi, and Goldman Sachs) have moved beyond experimental pilots into large-scale deployment, treating AI not as a peripheral tool but as the fundamental infrastructure of the "advisor-client" relationship.
 
 This report analyzes the technical specifications, financial commitments, and intellectual property strategies of these "Global Giants." It documents a clear shift from general-purpose chatbots to sophisticated, agentic systems that use Retrieval-Augmented Generation (RAG) to eliminate "hallucinations" and ensure compliance within highly regulated environments. The report further explores the historical evolution of these programs, the intense competition for PhD-level AI talent, and the strategic pivot from "search engines" to "autonomous agents."
 
@@ -21,7 +21,7 @@ Launched in May 2024, **IndexGPT** is the bank's flagship GenAI thematic investm
 *   **Model Agnosticism**: The underlying "LLM Suite" (rolled out to 140,000 employees) is built to be model-agnostic, allowing JPM to switch between OpenAI and Anthropic models to optimize for cost and performance (Source: [JPMorgan Mid-Year Update 2024](https://www.jpmorganchase.com/ir)).
 
 #### 2.1.3 R&D Budget and Patent Fortress
-JPMC’s technology spend reached nearly **$17 billion in 2024**, with a projected **$19.8 billion by 2026**. Of this, **$2 billion annually** is dedicated to AI (Source: [Finextra](https://www.finextra.com/newsarticle/44146/jpmorgan-ceo-ai-could-be-as-transformative-as-the-printing-press)). The bank leads the industry in patents, holding over **120 AI-specific patents**, including systems for AI-generated stock ratings and blockchain-based fact verification to prevent model "hallucinations."
+JPMC’s technology spend reached nearly **$17 billion in 2024**, with a projected **$20 billion by 2026**. Of this, **$2 billion annually** is dedicated to AI (Source: [Finextra](https://www.finextra.com/newsarticle/44146/jpmorgan-ceo-ai-could-be-as-transformative-as-the-printing-press)). The bank reported a **20% lift in private banking gross sales** in early 2026, attributed to the deployment of autonomous AI agents across its advisor ecosystem.
 
 ### 2.2 Morgan Stanley: The Human-in-the-Loop Specialist
 Morgan Stanley (MS) focuses on "Advisor Augmentation," using AI to scale the productivity of its 16,000 financial advisors.
@@ -32,7 +32,7 @@ MS was the exclusive launch partner for **GPT-4** in the wealth management secto
 *   **AI @ Morgan Stanley Debrief**: An agentic tool that automates meeting note-taking and follow-up drafts, saving advisors an average of **30 minutes per client meeting**.
 
 #### 2.2.2 The Shift to "Agentic" Banking (2025–2026)
-Under the leadership of **Jeff McMillan** (who became the firm's first Head of Firmwide AI in March 2024), MS moved from "Search" to "Action." By 2026, the bank announced it would open its trillion-dollar wealth platform to **external AI agents**, allowing third-party tools to interact with the firm's proprietary infrastructure (Source: [Morgan Stanley 2026 Strategic Outlook](https://www.morganstanley.com/about-us/ir)).
+Under the leadership of **Jeff McMillan** (who became the firm's first Head of Firmwide AI in March 2024), MS moved from "Search" to "Action." By 2026, the bank announced it would open its trillion-dollar wealth platform to **external AI agents** using the **Model Context Protocol (MCP)**, allowing third-party tools to interact with the firm's proprietary infrastructure such as **ShareWorks** and **Equity Edge** (Source: [Morgan Stanley 2026 Strategic Outlook](https://www.morganstanley.com/about-us/ir)). This "Open Infrastructure" strategy is designed to capture corporate wealth flows by embedding AI services directly into client workflows.
 
 ### 2.3 UBS: The Integration Specialist
 For UBS, AI has been the "superglue" for the Credit Suisse merger—one of the most complex integrations in banking history.
@@ -41,6 +41,10 @@ For UBS, AI has been the "superglue" for the Credit Suisse merger—one of the m
 *   **UBS Red**: Built on **Microsoft Azure OpenAI**, this assistant provides 52,000 employees with instant access to **60,000+ investment documents**.
 *   **Credit Suisse Integration**: AI-driven automation helped UBS decommission **1,700 legacy applications** and **76,000 servers**, contributing to **$11.5 billion in gross cost savings** by Q1 2026 (Source: [Finews.com](https://www.finews.com/news/english-news/62451-ubs-ai-credit-suisse-integration-savings)).
 *   **AUM Preservation**: UBS uses AI models to identify "at-risk" clients, saving billions in AUM by enabling proactive retention strategies (Source: [Innovation Development](https://innovationdevelopment.org/ubs-ai-wealth-preservation)).
+
+#### 2.3.2 TechGPT and AI Revenue Growth
+*   **TechGPT**: UBS has institutionalized its AI expertise through "TechGPT," a specialized research series that guides HNWIs on AI investment opportunities. This content has successfully converted over **$5B in new AUM** since its launch in 2025.
+*   **Revenue Forecast**: The bank raised its AI-driven revenue forecast by **40% for 2026**, citing high demand for AI-themed investment products and structured notes (Source: [Fintech News Switzerland](https://fintechnews.ch)).
 
 ### 2.4 Bank of America: The Patent Powerhouse
 Bank of America (BofA) leads in sheer volume of granted patents, with over **1,200 AI/ML patents**—a 94% increase since 2022.
@@ -96,13 +100,13 @@ The current "Arms Race" is moving toward **Agentic AI**—systems that don't jus
 
 ---
 
-## Data Table: Tier 1 Global Giants — AI Metrics (2024–2026)
+## Data Table: Tier 1 Global Giants — AI Metrics (2025–2026)
 
 | Field | JPMorgan Chase | Morgan Stanley | UBS | Bank of America | Citigroup | Goldman Sachs |
 |---|---|---|---|---|---|---|
 | **Proprietary LLM/Assistant** | IndexGPT / LLM Suite | AI Assistant / Debrief | UBS Red | Erica / ask MERRILL | AskWealth | GS AI Assistant / Louisa |
 | **Primary Cloud Partner** | AWS / Hybrid | Microsoft Azure | Microsoft Azure | Proprietary / Azure | Google Cloud | AWS / Hybrid |
-| **AI R&D Budget (Est.)** | ~$2.0 Billion / Year | ~$800 Million / Year | ~$1.2 Billion / Year | ~$4.0 Billion / Year | ~$900 Million / Year | ~$1.1 Billion / Year |
+| **AI R&D Budget (Est.)** | ~$2.5 Billion / Year | ~$800 Million / Year | ~$1.2 Billion / Year | ~$4.0 Billion / Year | ~$900 Million / Year | ~$1.1 Billion / Year |
 | **AI Patent Rank** | #1 (Evident Index) | #5 (Evident Index) | N/A (Swiss Focused) | #1 (US Total Granted) | #10 (Evident Index) | #4 (Evident Index) |
 | **AI Talent Size** | 2,000+ Specialists | 800+ Specialists | 1,000+ Specialists | 1,500+ Specialists | 600+ Specialists | 700+ Specialists |
 | **Deployment Scale** | 140,000 Employees | 16,000 Advisors | 52,000 Employees | 213,000 Employees | 140,000 Employees | 46,000 Employees |

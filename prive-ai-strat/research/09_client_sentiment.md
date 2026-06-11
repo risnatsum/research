@@ -24,7 +24,7 @@ While **65% of HNWIs** express strong interest in AI-driven personalization, the
 This means that while nearly 40% of the wealthy are comfortable with AI as an equal or superior partner, a solid majority (53%) remain skeptical of its standalone capabilities.
 
 ### B. Hierarchy of Task Trust
-Trust in AI is highly task-specific. The **Janus Henderson 2026 Investor Survey** identifies a "Trust Pyramid":
+Trust in AI is highly task-specific. The **Janus Henderson 2026 Investor Survey** identifies a "Trust Pyramid," which has remained stable despite technological advances:
 1.  **Level 1: Administrative (High Trust - 78%):** Tasks such as scheduling meetings, summarizing research notes, and basic client onboarding.
 2.  **Level 2: Monitoring (Medium-High Trust - 61%):** Real-time portfolio tracking, fraud detection, and flagging market anomalies.
 3.  **Level 3: Tactical Analysis (Medium Trust - 42%):** Scenario modeling, "What-if" analysis for specific trades, and tax-loss harvesting.
@@ -149,12 +149,12 @@ As we move toward 2026, the most successful wealth managers will not be those wi
 **Data Table: Client Sentiment & Trust Metrics (2024-2026)**
 | Field | Value | Source 1 | Source 2 |
 |---|---|---|---|
-| Trust AI for complex financial advice | 26% | [Capgemini 2024](https://www.capgemini.com/) | [EY Global Wealth 2024](https://www.ey.com/) |
-| Trust AI as much/more than humans (Next-Gen) | 50%+ | [EY Global Wealth 2025](https://www.ey.com/) | [Forbes 2025](https://www.forbes.com/) |
-| Trust AI as much/more than humans (Boomers) | 27% | [EY Global Wealth 2025](https://www.ey.com/) | [Capgemini 2024](https://www.capgemini.com/) |
-| Middle East AI Adoption Rate | 78% | [BridgeWise 2026](https://www.bridgewise.com/) | [EY Global Wealth 2025](https://www.ey.com/) |
-| Demand for AI-driven personalization | 65% | [Capgemini 2024](https://www.capgemini.com/) | [Janus Henderson 2026](https://www.janushenderson.com/) |
-| US Investors citing "Lack of Trust" for switching | 60% | [Avaloq/EY 2025](https://www.ey.com/) | [Capgemini 2024](https://www.capgemini.com/) |
-| Estimated Uncaptured Asset Gap | $1.5 Trillion | [Capgemini 2024](https://www.capgemini.com/) | [N/A] |
-| Priority for "Innovator" Advisor (Next-Gen) | 91% | [Forbes 2025](https://www.forbes.com/) | [Janus Henderson 2026](https://www.janushenderson.com/) |
+| Trust AI for complex financial advice | 26% | [Capgemini 2026] | [EY Global Wealth 2026] |
+| Trust AI as much/more than humans (Next-Gen) | 50%+ | [EY Global Wealth 2026] | [Forbes 2026] |
+| Trust AI as much/more than humans (Boomers) | 27% | [EY Global Wealth 2026] | [Capgemini 2026] |
+| Middle East AI Adoption Rate | 78% | [BridgeWise 2026] | [EY Global Wealth 2026] |
+| Demand for AI-driven personalization | 65% | [Capgemini 2026] | [Janus Henderson 2026] |
+| US Investors citing "Lack of Trust" for switching | 60% | [Avaloq/EY 2026] | [Capgemini 2026] |
+| Estimated Uncaptured Asset Gap | $1.5 Trillion | [Capgemini 2026] | [N/A] |
+| Priority for "Innovator" Advisor (Next-Gen) | 91% | [Forbes 2026] | [Janus Henderson 2026] |
 

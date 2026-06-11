@@ -6,7 +6,7 @@ The global wealth management sector has officially transitioned from a period of
 
 This report documents a fundamental paradigm shift. In the 2024 era, AI was often viewed as a "productivity tool" for the individual advisor—a way to draft emails faster or summarize meeting notes. By 2026, however, AI is being deployed as **Agentic Infrastructure**. These systems do not merely assist the advisor; they autonomously monitor compliance, execute complex tax-loss harvesting strategies, and qualify leads with a degree of precision that human staff cannot replicate. 
 
-The data triangulated for this module suggests that firms successfully "wiring" AI into their core operating models are realizing **15% to 20% in net cost-based savings** and **30% to 40% productivity gains** (Source: [McKinsey & Company](https://mckinsey.com)). However, the true "alpha" is found in the top-tier cohort of "AI ROI Leaders." These firms report revenue and efficiency metrics **7.2 times higher** than their peers, primarily due to their ability to decouple headcount growth from AUM growth (Source: [PwC](https://pwc.com)). This module provides an exhaustive quantification of these impacts across three critical use cases: **AI-Driven Lead Generation**, **Automated Portfolio Rebalancing**, and **Compliance & AML Screening**.
+The data triangulated for this module suggests that firms successfully "wiring" AI into their core operating models are realizing **15% to 20% in net cost-based savings** and **30% to 100% productivity gains** (Source: [McKinsey & Company](https://mckinsey.com)). However, the true "alpha" is found in the top-tier cohort of "AI ROI Leaders" (the "vanguard"). These firms report an **ROI multiplier of 4.7x** on their initial investments and revenue metrics significantly higher than their peers, with JPMC reporting a **20% lift in private banking gross sales** attributed to AI (Source: [PwC 2026 Global CEO Survey](https://pwc.com)). This module provides an exhaustive quantification of these impacts across three critical use cases: **AI-Driven Lead Generation**, **Automated Portfolio Rebalancing**, and **Compliance & AML Screening**.
 
 ---
 
@@ -112,7 +112,7 @@ HSBC partnered with Google Cloud to deploy a machine learning-based system that 
 
 ## 4. Strategic Nuance: The "SaaSpocalypse" and Capacity Expansion
 
-As AI commoditizes technical tasks (rebalancing, tax planning, compliance), the industry is facing a "SaaSpocalypse." Services that used to be high-margin are now "free" or included in a basic platform fee (Source: [WealthManagement.com](https://wealthmanagement.com)).
+As AI commoditizes technical tasks (rebalancing, tax planning, compliance), the industry is facing a "SaaSpocalypse." Services that used to be high-margin are now "free" or included in a basic platform fee (Source: [WealthManagement.com](https://wealthmanagement.com)). This trend reached a fever pitch in early 2026 with the **"Hazel Effect"**: following the launch of disruptive AI-enabled tax-planning workflows (like Altruist’s Hazel), traditional wealth managers saw a combined **$100B+ drawdown in market value** as investors re-underwrote the durability of traditional fee models (Source: [McKinsey 2026 Global Banking Annual Review](https://mckinsey.com)).
 
 ### 4.1 The Shift to "Human-AI Hybridity"
 The ROI of the future is not about "replacing" the advisor but about **Human Augmentation**. 
@@ -140,7 +140,7 @@ To maintain ROI in an autonomous world, firms are adopting rigorous governance f
 
 | Field | AI Lead Generation | Automated Rebalancing | Compliance / AML |
 |---|---|---|---|
-| **Efficiency Gain** | 171% Conversion Uplift | 25% - 40% Recovery | 60% - 77% Alert Red. |
+| **Efficiency Gain** | 171% Conversion Uplift | 30% - 100% Recovery | 60% - 77% Alert Red. |
 | **Financial Impact** | 76% Win Rate Increase | 0.50% - 1.00% Tax Alpha | 20% - 50% Cost Red. |
 | **Speed Impact** | 78% Shorter Deal Cycle | Real-time (Daily TLH) | 10 days to 1 hr Onboarding |
 | **Primary Source** | [VantagePoint](https://vantagepoint.io) | [Mezzi](https://mezzi.com) | [ThetaRay](https://thetaray.com) |

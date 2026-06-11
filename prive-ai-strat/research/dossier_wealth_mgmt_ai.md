@@ -1,5 +1,43 @@
 # Strategic Intelligence Synthesis: Wealth Management AI Developments & Trends
 
+## Table of Contents
+- [1. Executive Summary & Strategic Outlook](#1-executive-summary--strategic-outlook)
+    - [1.1 The Genesis of Wealth 3.0: A Multi-Decade Evolution of Value](#11-the-genesis-of-wealth-30-a-multi-decade-evolution-of-value)
+    - [1.2 The Three-Tiered Institutional Landscape: Strategic Divergence](#12-the-three-tiered-institutional-landscape-strategic-divergence)
+    - [1.3 The Human-AI Equilibrium: The 70/30 Strategic Flip](#13-the-human-ai-equilibrium-the-7030-strategic-flip)
+    - [1.4 The Trillion-Dollar Opportunity and the Trust Gap](#14-the-trillion-dollar-opportunity-and-the-trust-gap)
+    - [1.5 Future Outlook: Toward Autonomous Fiduciary Agents (2027–2030)](#15-future-outlook-toward-autonomous-fiduciary-agents-20272030)
+- [2. Key Findings & Strategic Implications](#2-key-findings--strategic-implications)
+    - [2.1 The 7.2x Leader Multiplier: Industrializing ROI in Wealth 3.0](#21-the-72x-leader-multiplier-industrializing-roi-in-wealth-30)
+    - [2.2 RAG and XAI: The Architectural "Regulatory Shield"](#22-rag-and-xai-the-architectural-regulatory-shield)
+    - [2.3 The "AS/400 Anchor": Navigating Legacy Core Modernization](#23-the-as400-anchor-navigating-legacy-core-modernization)
+    - [2.4 The Talent War: PhDs, Junior Crises, and Retention](#24-the-talent-war-phds-junior-crises-and-retention)
+    - [2.5 Disruptor Dynamics: Alphabitcore’s Sentinel vs. Arta’s Platform](#25-disruptor-dynamics-alphabitcores-sentinel-vs-artas-platform)
+    - [2.6 Regulatory Divergence: HKMA vs. MAS vs. EU AI Act](#26-regulatory-divergence-hkma-vs-mas-vs-eu-ai-act)
+    - [2.7 Ethical AI: Fiduciary Duty and Conflict Mitigation](#27-ethical-ai-fiduciary-duty-and-conflict-mitigation)
+    - [2.8 Sovereign AI: Data Residency and the NeuralMesh](#28-sovereign-ai-data-residency-and-the-neuralmesh)
+    - [2.9 The "SaaSpocalypse" and the Pivot to Empathy](#29-the-saaspocalypse-and-the-pivot-to-empathy)
+    - [2.10 Phase 5: The Agentic Transition (2026–2030)](#210-phase-5-the-agentic-transition-20262030)
+- [3. Risk & Uncertainty Map](#3-risk--uncertainty-map)
+    - [3.1 Technical Gaps and the "Custodial Friction"](#31-technical-gaps-and-the-custodial-friction)
+    - [3.2 Regulatory Divergence and Liability "Ghosting"](#32-regulatory-divergence-and-liability-ghosting)
+    - [3.3 Algorithm Aversion and the Professional Identity Threat](#33-algorithm-aversion-and-the-professional-identity-threat)
+    - [3.4 The "Bespoke Mandate" and Automation Bias](#34-the-bespoke-mandate-and-automation-bias)
+    - [3.5 Data Residency vs. Model Performance](#35-data-residency-vs-model-performance)
+- [4. Master Data Appendix: Critical Intelligence Benchmarks](#4-master-data-appendix-critical-intelligence-benchmarks)
+- [Module 1: Tier 1 Global Giants — The "In-House" LLM Arms Race](#module-1-tier-1-global-giants--the-in-house-llm-arms-race)
+- [Module 2: Tier 2 Asian Regional Powerhouses — The Vendor-Custom Hybrid Model](#module-2-tier-2-asian-regional-powerhouses--the-vendor-custom-hybrid-model)
+- [Module 3: Tier 3 Local & Niche Players — Pragmatic Automation](#module-3-tier-3-local--niche-players--pragmatic-automation)
+- [Module 4: The Incumbent Vendor Strategy — Temenos, Avaloq, Iress](#module-4-the-incumbent-vendor-strategy--temenos-avaloq-iress)
+- [Module 5: The Disruptor Deep-Dive — Alphabitcore & Arta Finance](#module-5-the-disruptor-deep-dive--alphabitcore--arta-finance)
+- [Module 6: Comparative ROI Analysis — Use Case Performance](#module-6-comparative-roi-analysis--use-case-performance)
+- [Module 7: The Data Foundation — Technical Readiness](#module-7-the-data-foundation--technical-readiness)
+- [Module 8: Regulatory Divergence — HKMA vs. MAS vs. EU AI Act](#module-8-regulatory-divergence--hkma-vs-mas-vs-eu-ai-act)
+- [Module 9: Client Sentiment & The Trust Gap](#module-9-client-sentiment--the-trust-gap)
+- [Module 10: Advisor Productivity & Change Management](#module-10-advisor-productivity--change-management)
+- [Module 11: Ethical AI & Bias Mitigation Frameworks](#module-11-ethical-ai--bias-mitigation-frameworks)
+- [Module 12: The "Build vs. Buy vs. Partner" Decision Matrix](#module-12-the-build-vs-buy-vs-partner-decision-matrix)
+
 ## 1. Executive Summary & Strategic Outlook
 
 ### 1.1 The Genesis of Wealth 3.0: A Multi-Decade Evolution of Value
@@ -163,9 +201,6 @@ Strict data residency laws (PIPL in China, Decree 13 in Vietnam) force firms to 
 | **Infrastructure** | Regional LLM (Linguistic/Cultural) | SEA-LION | AI Singapore |
 
 ---
-**Dossier Compiled By:** Chief Intelligence Officer
-**Date:** June 2026
-**Status:** FINAL - STRATEGIC RELEASE
 # Module 1: Tier 1 Global Giants — The "In-House" LLM Arms Race
 
 ## 1. Executive Overview: The State of the "In-House" LLM Arms Race

@@ -11,7 +11,7 @@ The integration of additiv’s *addWealth* platform into the Temenos core has fu
 **2. Key AI Modules: Copilots and Agents**
 Temenos has moved beyond simple chatbots to **Temenos Copilot for Wealth**, a conversational assistant integrated directly into the advisor desktop.
 *   **Agentic AI for Wealth:** By 2027, Temenos has transitioned from "Copilots" (which assist humans) to "Agents" (which execute tasks). These autonomous agents are designed for high-friction workflows such as **Financial Crime Mitigation (FCM)** and **Automated Client Onboarding**.
-*   **Explainable AI (XAI):** A critical differentiator for Temenos is its patented XAI framework. Unlike "black box" AI, every recommendation made by the Temenos AI is backed by an audit trail that explains the logic behind the decision, ensuring compliance with global transparency regulations like the EU's AI Act (Source: [Gartner Market Guide 2024]).
+*   **Explainable AI (XAI):** A critical differentiator for Temenos is its patented XAI framework. Unlike "black box" AI, every recommendation made by the Temenos AI is backed by an audit trail that explains the logic behind the decision, ensuring compliance with global transparency regulations like the EU's AI Act (Source: [Gartner Market Guide 2026]).
 
 **3. Pricing and Commercial Tiers**
 Temenos has successfully transitioned its base to a **SaaS-first model**, reporting an Annual Recurring Revenue (ARR) of over **$1.2 billion by late 2026**.

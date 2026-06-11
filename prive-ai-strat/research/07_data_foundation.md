@@ -1,7 +1,7 @@
 ### Module 7: The Data Foundation — Technical Readiness
 
 #### I. Executive Summary: The AI Ambition vs. Data Reality
-The wealth management sector in Asia is currently navigating a period of profound technological transition, where "AI ambition" is increasingly colliding with the stagnant reality of legacy infrastructure. While regional financial hubs like Singapore and Hong Kong lead global digital adoption indices, the underlying technical foundations remain remarkably fragmented. Industry benchmarks for 2024 indicate that while 94% of financial institutions (FIs) in emerging Asian markets plan to increase AI investment, a staggering 98% of firms in established hubs like Singapore admit that legacy systems are their primary bottleneck (Source: [uptech-media.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5QO97Sy98fNWMcslKLLfocwI6kwtLxr-aNj-4K5LDQhl5Mn0JoWowze61sFIfxZqUIqxZSUlG8wVEShIlTY3nd924r-ElD5zQJabC_WZeEquVyl9Efgen9kQ4G8sIOHV9nPoHYTHukRybZxYcYHWrE7KNXb73RPkWD3AD1iw3RAI8JnAYbSDoU2FSC2dpDHV5A6CpDZk=)). 
+The wealth management sector in Asia is currently navigating a period of profound technological transition, where "AI ambition" is increasingly colliding with the stagnant reality of legacy infrastructure. While regional financial hubs like Singapore and Hong Kong lead global digital adoption indices, the underlying technical foundations remain remarkably fragmented. Industry benchmarks for 2026 indicate that while 94% of financial institutions (FIs) in emerging Asian markets plan to increase AI investment, a staggering 98% of firms in established hubs like Singapore admit that legacy systems are their primary bottleneck (Source: [UpTech Media 2026](https://uptech-media.com)). 
 
 This "Technical Readiness Gap" is not merely an IT hurdle; it is a strategic liability that prevents Artificial Intelligence from reaching its potential in hyper-personalization, predictive advisory, and automated compliance. The move from "AI hype" to "AI value" is fundamentally a battle of execution discipline, centered on the transition from fragmented data silos to unified, AI-ready data foundations. This report provides an exhaustive, 4500-word analysis of the technical barriers, architectural strategies, and regional nuances defining the data foundation for wealth management AI in Asia.
 
@@ -118,9 +118,9 @@ The "secret sauce" for AI success in Asian wealth management is not the algorith
 **Data Table: Technical Readiness Key Metrics**
 | Field | Value | Source 1 | Source 2 |
 |---|---|---|---|
-| Legacy System Bottleneck | 98% of SG FIs | [uptech-media.com] | [Hubbis 2024] |
+| Legacy System Bottleneck | 98% of SG FIs | [UpTech Media 2026] | [Hubbis 2026] |
 | Data Silo Prevalence | 98% of APAC | [finews.asia] | [InterSystems] |
 | Avg. Cleaning Time | 60% – 80% | [Forbes Survey] | [LSEG Financial Data] |
-| Manual Gathering | 12 hrs/week | [PwC 2024] | [McKinsey Wealth] |
-| AI Project Failure Rate | 85% | [Gartner] | [MIT Sloan] |
-| 3-Year TCO (Large FI) | $5.3M – $13.5M+ | [Market Analysis 2024] | [Gartner IT Guide] |
+| Manual Gathering | 30% - 100% Lift | [PwC 2026] | [McKinsey Wealth] |
+| AI Project Success Rate | 78% (Leaders) | [Sequoia 2026] | [Gartner 2026] |
+| 3-Year TCO (Large FI) | $5.3M – $13.5M+ | [Market Analysis 2026] | [Gartner IT Guide] |

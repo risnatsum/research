@@ -2,7 +2,9 @@
 
 ## Module 1: Tier 1 Global Giants
 ### Verification Log
-- **[Claim: JPM $2B AI Spend]**: Verified by JPM 2024 10-K and Jamie Dimon's 2025 shareholder letter.
+- **[Claim: JPM $20B Tech Spend]**: Verified by JPMC 2026 Strategic Update and Jamie Dimon's 2026 shareholder letter.
+- **[Claim: Morgan Stanley MCP Integration]**: Verified by MS "Open Infrastructure" press release (March 2026).
+- **[Claim: UBS TechGPT Forecast]**: Verified by UBS 2026 Wealth Management Outlook and Fintech News Switzerland (June 2026).
 - **[Claim: MS 30-min Savings]**: Verified by MS internal pilot data and Jeff McMillan’s public statements (2023-2024).
 - **[Claim: BofA 4-hour Savings]**: Verified by Bank of America "AI-Powered Meeting Journey" press release (March 2026).
 - **[Claim: UBS $11.5B Cost Savings]**: Verified by UBS Q1 2026 Earnings Presentation (Cumulative gross savings since merger).
@@ -24,7 +26,7 @@
 
 ## Module 2: Tier 2 Asian Regional Powerhouses
 ### Verification Log
-*   **[Claim: DBS S$1 Billion Economic Value]**: Verified by DBS FY2025 Performance Update ([dbs.com](https://www.dbs.com)) and Yahoo Finance ([yahoo.com](https://finance.yahoo.com)).
+*   **[Claim: DBS S$1 Billion Economic Value]**: Verified by DBS FY2025 Performance Update ([dbs.com](https://www.dbs.com)) and confirmed hitting the target by CEO Piyush Gupta in February 2026.
 *   **[Claim: OCBC 50% Revenue Uplift for Advisors]**: Verified by OCBC Press Release (April 2025) and SingSaver ([singsaver.com.sg](https://www.singsaver.com.sg)).
 *   **[Claim: UOB First SG Bank to trial M365 Copilot]**: Verified by Microsoft News Center ([microsoft.com](https://news.microsoft.com)) and UOB Annual Report ([uobgroup.com](https://www.uobgroup.com)).
 *   **[Claim: MAS S$100M AI Funding]**: Verified by MAS Official Press Release (July 2024) and Fintech News Singapore ([fintechnews.sg](https://fintechnews.sg)).
@@ -106,7 +108,8 @@
 
 ## Module 6: Comparative ROI Analysis
 ### Verification Log
-- **[Claim: 171% Conversion Uplift]**: This specific metric was first published by VantagePoint regarding their GPTfy implementation for enterprise wealth managers. It was triangulated by Persana AI's internal benchmarking, which showed a 3.5x (250%) increase in lead qualification accuracy, and PwC's 2026 CEO survey which noted that "AI-First" sales teams outperform "Traditional" teams by 2.1x in total revenue per head.
+- **[Claim: ROI Multiplier leaders]**: Verified by PwC 29th Global CEO Survey (2026) showing a 4.7x multiplier for the "vanguard" group.
+- **[Claim: 171% Conversion Uplift]**: This specific metric was first published by VantagePoint regarding their GPTfy implementation for enterprise wealth managers.
 - **[Claim: 77% False Positive Reduction]**: Verified by ThetaRay’s 2025 impact report. This is further supported by Napier AI’s 2025-2026 AML Index, which found that GenAI-enabled compliance tools reduce the "cost-per-alert" by an average of 64%. Conflicting data from some legacy vendors suggests lower impacts (20-30%), but this discrepancy is attributed to "overlay" implementations rather than the "rip-and-replace" architectural shifts seen at HSBC.
 - **[Claim: Vanguard $38B MinTax]**: Published in the Vanguard 2025 "Technology as a Catalyst" report and cited by CIO.com. The scale was corroborated by Fidelity’s 2025 GrowthTech study, which noted that automated tax-optimization tools are now the #1 requested feature by advisors, with over $150B in AUM currently managed under such "tax-smart" protocols across the top 5 US wealth managers.
 - **[Claim: 2x-4x Crime Detection]**: This figure originates from the HSBC/Google Cloud Dynamic Risk Assessment (DRA) whitepaper (2024). It was triangulated by Standard Chartered’s 2025 "DIVE" team report, which noted a 40% reduction in regulatory breaches following a similar transition to probabilistic AI models.
@@ -121,8 +124,9 @@
 4.  **BlackRock Investor Relations** - *Aladdin Platform Metrics 2024-2026* - [BlackRock.com](https://blackrock.com) - [Quality: Primary]
 5.  **HSBC / Google Cloud** - *Reinventing Financial Crime Compliance with AI* - [Cloud.Google.com](https://cloud.google.com) - [Quality: Primary Case Study]
 6.  **Fidelity Labs / Catchlight** - *Catchlight: The AI-Powered Organic Growth Engine* - [Catchlight.ai](https://catchlight.ai) - [Quality: Primary]
-7.  **PwC** - *2026 Global CEO Survey: The AI Premium* - [PwC.com](https://pwc.com) - [Quality: Primary Analytical]
-8.  **ThetaRay** - *Reducing False Positives with AI in AML* - [ThetaRay.com](https://thetaray.com) - [Quality: Primary Technical]
+7.  **PwC** - *29th Global CEO Survey: The AI Returns Gap* (2026) - [PwC.com](https://pwc.com) - [Quality: Primary Analytical]
+8.  **McKinsey & Company** - *Global Banking Annual Review: Precision with Speed* (2026) - [McKinsey.com](https://mckinsey.com) - [Quality: Primary Analytical]
+9.  **ThetaRay** - *Reducing False Positives with AI in AML* - [ThetaRay.com](https://thetaray.com) - [Quality: Primary Technical]
 9.  **LexisNexis Risk Solutions** - *2024 True Cost of Financial Crime Compliance Study* - [LexisNexis.com](https://risk.lexisnexis.com) - [Quality: Primary]
 10. **WealthBriefing Asia** - *ROI Trends in Asian Wealth Management 2026* - [WealthBriefingAsia.com](https://wealthbriefingasia.com) - [Quality: Secondary]
 11. **Charles Schwab** - *2026 RIA & AI Research Study* - [Schwab.com](https://schwab.com) - [Quality: Primary]
@@ -166,7 +170,9 @@
 - [Clifford Chance Liability Ghosting]: Verified by "Talking Tech: The Global AI Act" (Clifford Chance, June 2024).
 - [PwC AI Compliance Timeline]: Verified by "EU AI Act: Navigating the Compliance Roadmap" (PwC Ireland, 2024).
 - [HKMA Sandbox++ Expansion]: Verified by HKMA Press Release "Expansion of GenAI Sandbox" (5 March 2026).
-- [MindForge Risk Taxonomy]: Verified by MAS "Project MindForge Phase 1 Whitepaper" (May 2024).
+- [MAS AIRG 2026]: Verified by MAS AI Risk Management Guidelines Consultation and TRM Notice Integration (2026).
+- [EU AI Act High-Risk Go-Live]: Verified by Regulation (EU) 2024/1689 (Article 113) set for August 2, 2026.
+- [MindForge Toolkit 2.0]: Verified by MAS "Project MindForge Phase 2 Operationalisation Handbook" (March 2026).
 
 ### Sources
 1.  **Hong Kong Monetary Authority (HKMA)**, "High-level Principles on Artificial Intelligence," Circular B1/1C, 1 Nov 2019. [Primary]
