@@ -48,3 +48,10 @@
 - Open gaps: (1) Bloomberg OVME internal vol surface model — behind terminal; (2) IvyDB exact CRR step count unspecified in manual; (3) CME US dividend futures liquidity vs Eurex; (4) SSVI vs eSSVI vs proprietary adoption split across sell-side desks; (5) Tick-data vendor synchronisation precision comparison
 - User feedback: none
 - File: c:\dev\research\implied-volatility\2026-05-16-iv-best-practices-listed-options.md
+
+## 2024-05-18 LEED Consultants Karachi — Market Landscape + Partnership Mapping (Targeted)
+- Topics: Karachi LEED AP Directory & Firm Mapping (quality: 5/5), Project Autopsy: SCB, Citibank, FaisalOne (quality: 4/5), Portfolio Analysis & Solar Thermal Synergy (quality: 4/5)
+- Key signals: (1) SIDEworks dominates premium banking/MNC interiors (Citibank, World Bank); (2) FaisalOne (40-storey) is the primary flagship LEED Gold target in Karachi; (3) Solar-assisted absorption cooling represents the highest LEED point-yield for solar thermal in Karachi's climate; (4) Standard Chartered Karachi utilizes WWF Green Office, indicating a multi-tiered sustainability market.
+- Open gaps: (1) MEP firm for FaisalOne; (2) Industrial textile ROI case studies for solar thermal; (3) Updated PGBC directory access.
+- User feedback: none
+- File: /mnt/c/dev/raj-solar/leed/research/2024-05-18-leed-consultants-karachi.md
